@@ -1,4 +1,4 @@
-# Web Scraping Project
+# pre Advanced Web Scraping Project
 
 ### This is an upper-intermidiate web scraping project using *(beautifulsoup4, tkinter, ttkbootstrap, sqlite3 and requests_html)* libraries
 ##### I used ttkbootstrap to have a more modern look in my app.
