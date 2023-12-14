@@ -5,7 +5,7 @@
 ![redLine](https://github.com/artinmohajeri/Cars-For-Sale-WebScraping-BeautifulSoup-tkinter-sqlite3/assets/95845593/55020743-6a45-4eb6-840a-bf132900b429)
 
 ### At first, run the scraper.py file and choose the car from the menu. (the menu items are all scraped!!) then click "search car" button.  
-### then, 2 files will be created. first one is the database which is sqlite3 and the second one is display.py wich displays the database in a tkinter GUI app.
+### A few moments later, 2 files will be created. first one is the database which is sqlite3 and the second one is display.py wich displays the database in a tkinter GUI app.
 ### I have used https://autoscout24.com/ website for scraping
 
 ![Screenshot (137)](https://github.com/artinmohajeri/Cars-For-Sale-WebScraping-BeautifulSoup-tkinter-sqlite3/assets/95845593/6b5471da-fc8f-473b-97b6-a9a99ae30656)
