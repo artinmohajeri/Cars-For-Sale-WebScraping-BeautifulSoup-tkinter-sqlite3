@@ -78,7 +78,7 @@ def search():
     connect.commit()
     lab.configure(text="data recieved successfuly!!", fg="lightgreen")
 
-    with open("databese.py","w") as f:
+    with open("display_database.py","w") as f:
         f.write('''
 
 from tkinter import *
